@@ -21,7 +21,11 @@ Generate final itinerary
 
 🧠 Key Concepts
 Chain-of-Thought (CoT) reasoning
+
 ReAct (Reason + Act)
+
 Prompt chaining
+
 Tool usage (APIs)
+
 Feedback loops
